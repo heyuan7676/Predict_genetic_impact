@@ -1,3 +1,6 @@
+# Predict_genetic_impact
+
+
 To run the code:
 sbatch run.sh
 
@@ -30,4 +33,3 @@ Code composition:
           - features.txt: features to put in the model 
 
           - chrlist.txt: chromosomes that provide the data
-# Predict_genetic_impact
